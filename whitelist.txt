@@ -40,7 +40,7 @@ api.twitter.com
 
 #Discord
 media.discordapp.net
-cdn.discordapp.net
+cdn.discordapp.com
 discordapp.com
 
 #Blacklist Hosts
