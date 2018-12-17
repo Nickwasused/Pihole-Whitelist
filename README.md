@@ -9,6 +9,7 @@ Thats my personal Whitelist.
 # Pi-hole  https://pi-hole.net/
 
 Traditional install:<br>
+<br>
 curl -sSL https://install.pi-hole.net | bash
 <br>
 Docker install:<br>
