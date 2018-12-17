@@ -38,6 +38,11 @@ twitter.com
 t.co
 api.twitter.com
 
+#Discord
+media.discordapp.net
+cdn.discordapp.net
+discordapp.com
+
 #Blacklist Hosts
 adaway.org
 bitbucket.org
