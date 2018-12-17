@@ -22,6 +22,14 @@ ns1.dropbox.com
 ns2.dropbox.com
 goo.gl
 
+#Debian 9
+_http._tcp.metadata.ftp-master.debian.org
+metadata.ftp-master.debian.org
+
+#Ifttt
+ifttt.com
+maker.ifttt.com
+
 #Youtube
 youtube.com
 
@@ -33,6 +41,7 @@ api.twitter.com
 #Blacklist Hosts
 adaway.org
 bitbucket.org
+smokingwheels.github.io
 gitlab.com
 malwaredomainblacklist.org
 mirror.cedia.org
