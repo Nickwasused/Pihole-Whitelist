@@ -1,6 +1,9 @@
 #Made by Nickwasused
 #Last update 19.12.2018
 
+#My Domain
+nickwasused.com
+
 #Amazon
 amazon.com
 amazonaws.com
@@ -11,6 +14,8 @@ rover.ebay.com
 
 #Google
 android.clients.google.com
+clients.google.com
+clients1.google.com
 clients2.google.com
 clients3.google.com
 clients4.google.com
@@ -21,6 +26,32 @@ dl.dropbox.com
 ns1.dropbox.com
 ns2.dropbox.com
 goo.gl
+
+#Gmail
+mail.google.com
+smtp.gmail.com
+imap.gmail.com
+
+#Gmx Mailservers
+gmx.de
+gmx.net
+imap.gmx.net
+mail.gmx.net
+
+#Protonmail (more later)
+protonmail.com
+
+#T-online mailservers
+t-online.de
+secureimap.t-online.de
+securesmtp.t-online.de
+securepop.t-online.de
+securesmtp.t-online.de
+
+#Yahoo Mail
+yahoo.com
+mail.yahoo.com
+smtp.mail.yahoo.com
 
 #Debian 9
 _http._tcp.metadata.ftp-master.debian.org
