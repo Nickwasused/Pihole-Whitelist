@@ -152,6 +152,7 @@ ea.com
 cloudflare.com
 s.shopify.com
 gravatar.com
+megaupload.com
 oldversion.com
 msftncsi.com
 multiproxy.org
