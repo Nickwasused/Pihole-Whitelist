@@ -1,5 +1,5 @@
 #Made by Nickwasused
-#Last update 17.12.2018
+#Last update 19.12.2018
 
 #Amazon
 amazon.com
@@ -40,7 +40,7 @@ api.twitter.com
 
 #Discord
 media.discordapp.net
-cdn.discordapp.com
+cdn.discordapp.net
 discordapp.com
 
 #Blacklist Hosts
@@ -65,7 +65,58 @@ adf.ly
 j.mp
 tinyurl.com
 
+#steam
+steam.com
+cdn.highwinds.cs.steampowered.com
+steamstore-a.akamaihd.net
+media.steampowered.com
+steam.naeu.qtlglb.com
+valve564.steamcontent.com
+valve564.steamcontent.com
+valve555.steamcontent.com
+level3.cdn.steampipe.steamcontent.com
+
+#raspberrypi3
+_http._tcp.archive.raspberrypi.org
+archive.raspberrypi.org
+raspbian.raspberrypi.org
+
+#Ntp server (timeserver)
+time.google.com
+time.windows.com
+time.nist.com
+time-a-g.nist.gov
+time-b-g.nist.gov
+time-c-g.nist.gov
+time-d-g.nist.gov
+time-d-g.nist.gov
+time-a-wwv.nist.gov
+time-b-wwv.nist.gov
+time-c-wwv.nist.gov
+time-d-wwv.nist.gov
+time-d-wwv.nist.gov
+time-a-b.nist.gov
+time-b-b.nist.gov
+time-c-b.nist.gov
+time-d-b.nist.gov
+time-d-b.nist.gov
+time.nist.gov
+utcnist.colorado.edu
+utcnist2.colorado.edu
+
+#Ntp Pools (timeserver pools)
+pool.ntp.org
+0.de.pool.ntp.org
+1.de.pool.ntp.org
+2.de.pool.ntp.org
+3.de.pool.ntp.org
+0.pool.ntp.org
+1.pool.ntp.org
+2.pool.ntp.org
+3.pool.ntp.org
+
 #other
+raspberrypi.org
 ea.com
 cloudflare.com
 s.shopify.com
