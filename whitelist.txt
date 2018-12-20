@@ -1,5 +1,5 @@
 #Made by Nickwasused
-#Last update 19.12.2018
+#Last update 20.12.2018
 
 #My Domain
 nickwasused.com
@@ -31,6 +31,19 @@ goo.gl
 mail.google.com
 smtp.gmail.com
 imap.gmail.com
+
+#Classic Wii
+conntest.nintendowifi.net
+wiinat.available.gs.nintendowifi.net
+wiinat.natneg3.gs.nintendowifi.net
+wiinat.natneg2.gs.nintendowifi.net
+wiinat.natneg1.gs.nintendowifi.net
+nus.shop.wii.com
+rcw.wc24.wii.com
+vtp.wapp.wii.com
+
+#Modded Wii
+hbc.hackmii.com
 
 #Gmx Mailservers
 gmx.de
@@ -152,7 +165,6 @@ ea.com
 cloudflare.com
 s.shopify.com
 gravatar.com
-megaupload.com
 oldversion.com
 msftncsi.com
 multiproxy.org
