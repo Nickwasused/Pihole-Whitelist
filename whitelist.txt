@@ -1,5 +1,5 @@
 #Made by Nickwasused
-#Last update 20.12.2018
+#Last update 22.12.2018
 
 #My Domain
 nickwasused.com
@@ -8,6 +8,12 @@ nickwasused.com
 amazon.com
 amazonaws.com
 s3.amazonaws.com
+
+#Github
+github.com
+raw.githubusercontent.com
+status.github.com
+codeload.github.com
 
 #Ebay
 rover.ebay.com
@@ -96,7 +102,6 @@ malwaredomainblacklist.org
 mirror.cedia.org
 mirror1.malwaredomains.com
 squidblacklist.com
-raw.githubusercontent.com
 sysctl.org
 v.firebog.net
 hosts-file.net
