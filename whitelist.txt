@@ -1,5 +1,5 @@
 #Made by Nickwasused
-#Last update 22.12.2018
+#Last update 03.01.2019
 
 #My Domain
 nickwasused.com
@@ -27,6 +27,7 @@ clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
+docs.google.com
 dropbox.com
 dl.dropbox.com
 ns1.dropbox.com
@@ -165,6 +166,8 @@ pool.ntp.org
 3.pool.ntp.org
 
 #other
+feedly.com
+cdn-11.eft-store.com
 raspberrypi.org
 ea.com
 cloudflare.com
