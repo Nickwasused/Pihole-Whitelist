@@ -1,8 +1,9 @@
 #Made by Nickwasused
-#Last update 03.01.2019
+#Last update 21.01.2019
 
 #My Domain
 nickwasused.com
+www.nickwasused.com
 
 #Amazon
 amazon.com
@@ -16,6 +17,8 @@ status.github.com
 codeload.github.com
 
 #Ebay
+ebay.com
+ebay.de
 rover.ebay.com
 
 #Google
@@ -108,6 +111,9 @@ v.firebog.net
 hosts-file.net
 zeustracker.abuse.ch
 
+#Wayback machine
+web.archive.org
+
 #urls shortners
 bit.ly
 ow.ly
@@ -165,7 +171,13 @@ pool.ntp.org
 2.pool.ntp.org
 3.pool.ntp.org
 
+#Gamestar
+www.gamestar.de
+gamestar.de
+dlvr.it
+
 #other
+passwordsgenerator.net
 feedly.com
 cdn-11.eft-store.com
 raspberrypi.org
