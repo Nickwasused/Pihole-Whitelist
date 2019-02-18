@@ -1,5 +1,5 @@
 #Made by Nickwasused
-#Last update 21.01.2019
+#Last update 18.02.2019
 
 #My Domain
 nickwasused.com
@@ -20,6 +20,11 @@ codeload.github.com
 ebay.com
 ebay.de
 rover.ebay.com
+
+#Firefox and Morzilla
+mozilla.org
+prod-tp.sumo.moz.works
+support.mozilla.org
 
 #Google
 android.clients.google.com
@@ -121,6 +126,10 @@ adf.ly
 j.mp
 tinyurl.com
 
+#Keybase.io
+keybase.io
+api-0.core.keybaseapi.com
+
 #steam
 steam.com
 cdn.highwinds.cs.steampowered.com
@@ -131,6 +140,27 @@ valve564.steamcontent.com
 valve564.steamcontent.com
 valve555.steamcontent.com
 level3.cdn.steampipe.steamcontent.com
+
+#Origin
+www.origin.com
+origin.com
+friends.dm.origin.com
+download.eac-cdn.com
+pin-river.data.ea.com
+river.data.ea.com
+secure.download.dm.origin.com
+api1.origin.com
+api2.origin.com
+api3.origin.com
+api4.origin.com
+
+#Origin Anticheat
+gossip.easyanticheat.net
+
+#EA
+ea.com
+accounts.ea.com
+gateway.ea.com
 
 #raspberrypi3
 _http._tcp.archive.raspberrypi.org
