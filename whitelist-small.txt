@@ -6,6 +6,7 @@
 2.pool.ntp.org
 3.de.pool.ntp.org
 3.pool.ntp.org
+de.ign.com
 _http._tcp.archive.raspberrypi.org
 _http._tcp.metadata.ftp-master.debian.org
 accounts.ea.com

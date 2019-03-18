@@ -3,7 +3,7 @@
 Thats my personal Whitelist.
 
 
-# Last update: 18.02.2019
+# Last update: 18.03.2019
 
 
 # Pi-hole  https://pi-hole.net/

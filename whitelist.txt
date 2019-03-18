@@ -207,6 +207,7 @@ gamestar.de
 dlvr.it
 
 #other
+de.ign.com
 passwordsgenerator.net
 feedly.com
 cdn-11.eft-store.com
