@@ -1,9 +1,12 @@
 #Made by Nickwasused
-#Last update 18.02.2019
+#Last update 13.04.2019
 
 #My Domain
 nickwasused.com
 www.nickwasused.com
+
+#Duckduckgo
+duckduckgo.com
 
 #Amazon
 amazon.com
@@ -24,6 +27,7 @@ rover.ebay.com
 #Firefox and Morzilla
 mozilla.org
 prod-tp.sumo.moz.works
+download.cdn.mozilla.net
 support.mozilla.org
 
 #Google
@@ -130,8 +134,9 @@ tinyurl.com
 keybase.io
 api-0.core.keybaseapi.com
 
-#steam
+#Steam
 steam.com
+www.steam.com
 cdn.highwinds.cs.steampowered.com
 steamstore-a.akamaihd.net
 media.steampowered.com
@@ -149,10 +154,19 @@ download.eac-cdn.com
 pin-river.data.ea.com
 river.data.ea.com
 secure.download.dm.origin.com
+download.dm.origin.com
 api1.origin.com
 api2.origin.com
 api3.origin.com
 api4.origin.com
+
+#Playstation Network
+id.sonyentertainmentnetwork.com
+account.np.ac.playstation.net
+post.net.playstation.net
+sonyentertainmentnetwork.com
+ps4updptl.uk.np.community.playstation.net
+ps4-system.sec.np.dl.playstation.net
 
 #Origin Anticheat
 gossip.easyanticheat.net
@@ -201,15 +215,27 @@ pool.ntp.org
 2.pool.ntp.org
 3.pool.ntp.org
 
+#Netflix
+netflix.com
+prod.ftl.netflix.com
+oca.nflxvideo.net
+
+#News (excluding Gamestar)
+golem.de
+raspberry-pi-geek.de
+de.ign.com
+feedly.com
+
+#Images
+imgur.com
+
 #Gamestar
 www.gamestar.de
 gamestar.de
 dlvr.it
 
 #other
-de.ign.com
 passwordsgenerator.net
-feedly.com
 cdn-11.eft-store.com
 raspberrypi.org
 ea.com
@@ -219,7 +245,5 @@ gravatar.com
 oldversion.com
 msftncsi.com
 multiproxy.org
-netflix.com
 ocsp.apple.com
 prod.telemetry.ros.rockstargames.com
-imgur.com
