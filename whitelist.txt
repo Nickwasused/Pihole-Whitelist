@@ -7,6 +7,7 @@ www.nickwasused.com
 
 #Duckduckgo
 duckduckgo.com
+www.duckduckgo.com
 
 #Amazon
 amazon.com
@@ -29,8 +30,12 @@ mozilla.org
 prod-tp.sumo.moz.works
 download.cdn.mozilla.net
 support.mozilla.org
+addons.mozilla.org
+www.addons.mozilla.org
 
 #Google
+www.google.com
+accounts.google.com
 android.clients.google.com
 clients.google.com
 clients1.google.com
@@ -39,6 +44,7 @@ clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
+myaccount.google.com
 docs.google.com
 dropbox.com
 dl.dropbox.com
@@ -107,6 +113,7 @@ cdn.discordapp.net
 discordapp.com
 
 #Blacklist Hosts
+jasonhill.co.uk
 adaway.org
 bitbucket.org
 smokingwheels.github.io
@@ -118,7 +125,13 @@ squidblacklist.com
 sysctl.org
 v.firebog.net
 hosts-file.net
+www.stopforumspam.com
+stopforumspam.com
 zeustracker.abuse.ch
+zerodot1.gitlab.io
+gist.githubusercontent.com
+adblock.mahakala.is
+phishing.mailscanner.info
 
 #Wayback machine
 web.archive.org
@@ -220,11 +233,21 @@ netflix.com
 prod.ftl.netflix.com
 oca.nflxvideo.net
 
+#Twitch
+twitch.tv
+www.twitch.tv
+
 #News (excluding Gamestar)
 golem.de
 raspberry-pi-geek.de
 de.ign.com
 feedly.com
+pcwelt.de
+www.xda-developers.com
+forum.xda-developers.com
+xda-developers.com
+androidauthority.com
+t3n.de
 
 #Images
 imgur.com
@@ -234,7 +257,21 @@ www.gamestar.de
 gamestar.de
 dlvr.it
 
+#WCG and Boinc
+worldcommunitygrid.org
+upload.worldcommunitygrid.org
+download.worldcommunitygrid.org
+boinc2.ssl.berkeley.edu
+boinc1.ssl.berkeley.edu
+
+#Mediafire
+mediafiretrend.com
+mediafire.com
+
 #other
+pastebin.com
+sandboxie.com
+www.sandboxie.com
 passwordsgenerator.net
 cdn-11.eft-store.com
 raspberrypi.org
