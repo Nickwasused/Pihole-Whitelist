@@ -24,6 +24,6 @@ echo "updating pihole blocklists"
 sudo pihole -g
 
 echo "moving myself to /home"
-sudo mv /home/$user/install.sh /home/whitelist.sh
+sudo mv install.sh /home/whitelist.sh
 
 exit
