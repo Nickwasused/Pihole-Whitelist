@@ -15,14 +15,6 @@ sudo mv whitelist.txt /etc/pihole
 
 sleep 2
 
-echo "restarting pihole!"
-sudo pihole restartdns
-
-sleep 5
-
-echo "updating pihole blocklists"
-sudo pihole -g
-
 echo "moving myself to /home"
 sudo mv install.sh /home/whitelist.sh
 
