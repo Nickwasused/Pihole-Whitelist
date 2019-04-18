@@ -16,7 +16,7 @@ sudo mv whitelist.txt /etc/pihole
 sleep 2
 
 echo "restarting pihole!"
-sudo service pihole restart
+sudo pihole restartdns
 
 sleep 5
 
