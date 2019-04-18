@@ -1,0 +1,4 @@
+_http._tcp.metadata.ftp-master.debian.org
+metadata.ftp-master.debian.org
+www._http._tcp.metadata.ftp-master.debian.org
+www.metadata.ftp-master.debian.org

@@ -1,0 +1,10 @@
+mozilla.org
+prod-tp.sumo.moz.works
+download.cdn.mozilla.net
+support.mozilla.org
+addons.mozilla.org
+www.mozilla.org
+www.prod-tp.sumo.moz.works
+www.download.cdn.mozilla.net
+www.support.mozilla.org
+www.addons.mozilla.org

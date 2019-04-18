@@ -1,0 +1,16 @@
+conntest.nintendowifi.net
+wiinat.available.gs.nintendowifi.net
+wiinat.natneg3.gs.nintendowifi.net
+wiinat.natneg2.gs.nintendowifi.net
+wiinat.natneg1.gs.nintendowifi.net
+nus.shop.wii.com
+rcw.wc24.wii.com
+vtp.wapp.wii.com
+www.conntest.nintendowifi.net
+www.wiinat.available.gs.nintendowifi.net
+www.wiinat.natneg3.gs.nintendowifi.net
+www.wiinat.natneg2.gs.nintendowifi.net
+www.wiinat.natneg1.gs.nintendowifi.net
+www.nus.shop.wii.com
+www.rcw.wc24.wii.com
+www.vtp.wapp.wii.com

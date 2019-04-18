@@ -1,0 +1,6 @@
+amazon.com
+amazonaws.com
+s3.amazonaws.com
+www.amazon.com
+www.amazonaws.com
+www.s3.amazonaws.com

@@ -1,0 +1,6 @@
+mail.google.com
+smtp.gmail.com
+imap.gmail.com
+www.mail.google.com
+www.smtp.gmail.com
+www.imap.gmail.com

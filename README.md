@@ -3,10 +3,28 @@
 Thats my personal Whitelist.
 
 
-# Last update: 17.04.2019
+# Last update: 18.04.2019
 
 
-# Pi-hole  https://pi-hole.net/
+# How to install
+
+sudo wget (later) && sudo chmod 777 install.sh
+
+./install.sh
+
+# How to run weekly
+
+first run install.sh
+
+sudo crontab -e
+
+add this:  0 0 * * 1 sudo ./home/whitelist.sh
+
+# All Services
+
+(later)
+
+# install Pi-hole  https://pi-hole.net/
 
 Traditional install:<br>
 

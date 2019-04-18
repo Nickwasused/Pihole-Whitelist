@@ -1,0 +1,8 @@
+gmx.de
+gmx.net
+imap.gmx.net
+mail.gmx.net
+www.gmx.de
+www.gmx.net
+www.imap.gmx.net
+www.mail.gmx.net

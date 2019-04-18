@@ -1,0 +1,10 @@
+bit.ly
+ow.ly
+adf.ly
+j.mp
+tinyurl.com
+www.bit.ly
+www.ow.ly
+www.adf.ly
+www.j.mp
+www.tinyurl.com

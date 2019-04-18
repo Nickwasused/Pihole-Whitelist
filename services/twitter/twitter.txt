@@ -1,0 +1,6 @@
+twitter.com
+t.co
+api.twitter.com
+www.twitter.com
+www.t.co
+www.api.twitter.com

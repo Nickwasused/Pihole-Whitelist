@@ -1,0 +1,8 @@
+github.com
+raw.githubusercontent.com
+status.github.com
+codeload.github.com
+www.github.com
+www.raw.githubusercontent.com
+www.status.github.com
+www.codeload.github.com

@@ -1,0 +1,10 @@
+t-online.de
+secureimap.t-online.de
+securesmtp.t-online.de
+securepop.t-online.de
+securesmtp.t-online.de
+www.t-online.de
+www.secureimap.t-online.de
+www.securesmtp.t-online.de
+www.securepop.t-online.de
+www.securesmtp.t-online.de

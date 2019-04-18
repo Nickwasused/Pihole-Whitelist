@@ -1,0 +1,6 @@
+_http._tcp.archive.raspberrypi.org
+archive.raspberrypi.org
+raspbian.raspberrypi.org
+www._http._tcp.archive.raspberrypi.org
+www.archive.raspberrypi.org
+www.raspbian.raspberrypi.org

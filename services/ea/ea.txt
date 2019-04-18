@@ -1,0 +1,6 @@
+ea.com
+accounts.ea.com
+gateway.ea.com
+www.ea.com
+www.accounts.ea.com
+www.gateway.ea.com

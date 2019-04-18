@@ -1,0 +1,6 @@
+yahoo.com
+mail.yahoo.com
+smtp.mail.yahoo.com
+www.yahoo.com
+www.mail.yahoo.com
+www.smtp.mail.yahoo.com
