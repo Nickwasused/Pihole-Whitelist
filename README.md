@@ -14,15 +14,58 @@ sudo wget (later) && sudo chmod 777 install.sh
 
 # How to run weekly
 
-first run install.sh
+sudo mkdir /etc/whitlist
+
+sudo mv install.sh /etc/whitelist/whitelist.sh
 
 sudo crontab -e
 
-add this:  0 0 * * 1 sudo ./home/whitelist.sh
+add this:  0 0 * * 1 sudo ./etc/whitelist/whitelist.sh
 
 # All Services
 
-(later)
+https://github.com/Nickwasused/Pihole-Whitelist/tree/master/services
+
+amazon
+blacklist hosts
+boinc
+debian
+discord
+duckduckgo
+ea
+ebay
+firefox and morzilla
+gamestar
+github
+gmail
+gmx
+google
+ifttt
+images
+keybaseio
+mediafire
+modded wii
+netflix
+news
+nickwasused
+ntp
+origin
+playstation
+protonmail
+raspberrypi
+steam
+t-online
+twitch
+twitter
+url shortners
+waybackmachine
+wii
+yahoo
+youtube
+
+
+
+
 
 # install Pi-hole  https://pi-hole.net/
 
