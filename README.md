@@ -8,7 +8,7 @@ Thats my personal Whitelist.
 
 # How to install
 
-sudo wget (later) && sudo chmod 777 install.sh
+sudo wget https://raw.githubusercontent.com/Nickwasused/Pihole-Whitelist/master/install.sh && sudo chmod 777 install.sh
 
 ./install.sh
 
