@@ -26,46 +26,42 @@ add this:  0 0 * * 1 sudo ./etc/whitelist/whitelist.sh
 
 https://github.com/Nickwasused/Pihole-Whitelist/tree/master/services
 
-amazon
-blacklist hosts
-boinc
-debian
-discord
-duckduckgo
-ea
-ebay
-firefox and morzilla
-gamestar
-github
-gmail
-gmx
-google
-ifttt
-images
-keybaseio
-mediafire
-modded wii
-netflix
-news
-nickwasused
-ntp
-origin
-playstation
-protonmail
-raspberrypi
-steam
-t-online
-twitch
-twitter
-url shortners
-waybackmachine
-wii
-yahoo
-youtube
-
-
-
-
+amazon<br>
+blacklist hosts<br>
+boinc<br>
+debian<br>
+discord<br>
+duckduckgo<br>
+ea<br>
+ebay<br>
+firefox and morzilla<br>
+gamestar<br>
+github<br>
+gmail<br>
+gmx<br>
+google<br>
+ifttt<br>
+images<br>
+keybaseio<br>
+mediafire<br>
+modded wii<br>
+netflix<br>
+news<br>
+nickwasused<br>
+ntp<br>
+origin<br>
+playstation<br>
+protonmail<br>
+raspberrypi<br>
+steam<br>
+t-online<br>
+twitch<br>
+twitter<br>
+url shortners<br>
+waybackmachine<br>
+wii<br>
+yahoo<br>
+youtube<br>
 
 # install Pi-hole  https://pi-hole.net/
 
