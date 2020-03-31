@@ -2,6 +2,7 @@
 
 Thats my personal Whitelist.
 
+# ⛔Does not work for Pihole version 5.0 or higher!⛔
 
 # Last update: 18.04.2019
 
