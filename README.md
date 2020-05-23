@@ -46,12 +46,5 @@ wii<br>
 yahoo<br>
 youtube<br>
 
-# install Pi-hole  https://pi-hole.net/
-
-Traditional install:<br>
-
-curl -sSL https://install.pi-hole.net | bash<br>
-
-Docker install:<br>
-
-docker pull pihole/pihole
+# ⛔ Disclaimer ⛔
+These pages and the entire project is in no way affiliated with Pi-hole, which you can find on https://pi-hole.net/ I am only offering blocklists/whitelists you can import to your Pi-hole.
