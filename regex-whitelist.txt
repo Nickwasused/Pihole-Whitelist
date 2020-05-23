@@ -1,2 +1,2 @@
-# Youtube Videos
+# Youtube Videos /See here: https://regex101.com/r/rx0yzW/1
 (^r[0-9]{1,}[-]{1,}sn[-]{1,}|r[0-9]{1,}.)([a-z,A-Z,0-9]{1,}.googlevideo.com$|[a-z,A-Z,0-9]{1,}-[a-z,A-Z,0-9]{4}.googlevideo.com$|[a-z,A-Z,0-9]{1,}[-]{1,}[a-z,A-Z,0-9]{1,}.googlevideo.com$)
