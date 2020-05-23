@@ -13,4 +13,4 @@ sonar-[a-z]{3}.cdn.whatsapp.net$
 ^gfs[0-9]{3}[a-z]{1}[0-9]{3}.userstorage\.mega\.co\.nz$
 
 # Google Drive /See here: https://regex101.com/r/JoaWB2/2
-doc-[a-z,A-Z,0-9]{2}-[a-z,A-zm0-9]{2}-(docs|drive)(-data-export.googleusercontent.com$|.googleusercontent.com)
+^doc-[a-z,A-Z,0-9]{2}-[a-z,A-zm0-9]{2}-(docs|drive)(-data-export.googleusercontent.com$|.googleusercontent.com)
