@@ -2,15 +2,36 @@
 (^r[0-9]{1,}[-]{1,}sn[-]{1,}|r[0-9]{1,}.)([a-z,A-Z,0-9]{1,}.googlevideo.com$|[a-z,A-Z,0-9]{1,}-[a-z,A-Z,0-9]{4}.googlevideo.com$|[a-z,A-Z,0-9]{1,}[-]{1,}[a-z,A-Z,0-9]{1,}.googlevideo.com$)
 
 # Whatsapp stuff
-whatsapp-chatd-edge-shv-[0-9]{2}-[a-z]{3}[0-9].facebook.com$
-fna-whatsapp-shv-[0-9]{2}-[a-z]{4}[0-9]{1,}.fbcdn.net$
-whatsapp-cdn-shv-[0-9]{2}-[a-z]{3}[0-9].fbcdn.net$
-media-[a-z]{3}[0-9]-[0-9].cdn.whatsapp.net$
-[a-z].ns.cdn.whatsapp.net$
-sonar-[a-z]{3}.cdn.whatsapp.net$
+^whatsapp-chatd-edge-shv-[0-9]{2}-[a-z]{3}[0-9].facebook.com$
+^fna-whatsapp-shv-[0-9]{2}-[a-z]{4}[0-9]{1,}.fbcdn.net$
+^whatsapp-cdn-shv-[0-9]{2}-[a-z]{3}[0-9].fbcdn.net$
+^media-[a-z]{3}[0-9]-[0-9].cdn.whatsapp.net$
+^[a-z].ns.cdn.whatsapp.net$
+^sonar-[a-z]{3}.cdn.whatsapp.net$
 
 # Mega.nz /See here: https://regex101.com/r/kaj0wY/1
 ^gfs[0-9]{3}[a-z]{1}[0-9]{3}.userstorage\.mega\.co\.nz$
 
 # Google Drive /See here: https://regex101.com/r/JoaWB2/2
 ^doc-[a-z,A-Z,0-9]{2}-[a-z,A-zm0-9]{2}-(docs|drive)(-data-export.googleusercontent.com$|.googleusercontent.com)
+
+# See here: https://regex101.com/r/EXbQrw/2
+(^|www.)accoun(t|ts).
+
+# Google Client Urls /See here: https://regex101.com/r/Q7p5gY/1
+^clients(.|[0-9]{1,}.)google.com$
+
+# Boinc Urls
+^boinc[0-9]{1,}.ssl.berkeley.edu$
+
+# CDN
+^cdn[0-9]{1,}.optimizely.com$
+
+# Google root domains /See here: https://regex101.com/r/PgckY5/1
+(^|^www.)google.[a-z]{2,3}($|.[a-z]{2}$)
+
+# Onedrive /See here: https://regex101.com/r/soHWvf/1
+^onedriveclucprod[a-z]{2}[0-9]{5}.blob.core.windows.net$
+
+# gog.com
+(\.|^)gog\.com$
