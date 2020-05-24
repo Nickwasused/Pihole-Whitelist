@@ -35,3 +35,6 @@
 
 # gog.com
 (\.|^)gog\.com$
+
+# Twitch Video /See here: https://regex101.com/r/oHbaWb/2
+^(video-edge-[a-z,A-Z,0-9]{6}|video-weaver).[a-z,A-Z,0-9]{5}.(abs.hls|hls).ttvnw.net$
